@@ -1,4 +1,4 @@
-package org.sparta.basicspringsession.repostory;
+package org.sparta.basicspringsession.repository;
 
 import org.sparta.basicspringsession.entity.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
